@@ -1,1 +1,1 @@
-Version Code = 2.2V
+Version Code = 2.3V
